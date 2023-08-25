@@ -249,5 +249,8 @@
     "node": ">=16.14.0",
     "pnpm": "8.6.11"
   },
-  "packageManager": "pnpm@8.6.11"
+  "packageManager": "pnpm@8.6.11",
+  "dependencies": {
+    "sandworm": "1.18.0"
+  }
 }
